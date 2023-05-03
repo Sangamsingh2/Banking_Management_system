@@ -4,13 +4,13 @@ Description: The Online Banking System is a web-based application designed to en
 
 Modules:
 
-User Module: This module provides various features to account holders, including secure login, account information, account statement, funds transfer, account balance, notifications, profile editing, and optional password change.
+1. **User Module**: This module provides various features to account holders, including secure login, account information, account statement, funds transfer, account balance, notifications, profile editing, and optional password change.
 
-Manager Module: This module is designed for bank managers, providing them with features such as manager login, user account management, user account creation, sending notices to account holders, receiving feedback from account holders, managing cashiers, and adding new accounts.
+2. **Manager Module:** This module is designed for bank managers, providing them with features such as manager login, user account management, user account creation, sending notices to account holders, receiving feedback from account holders, managing cashiers, and adding new accounts.
 
-Cashier Module: The Cashier module allows account holders to perform cash transactions such as deposit or withdrawal.
+3. **Cashier Module:** The Cashier module allows account holders to perform cash transactions such as deposit or withdrawal.
 
-Features:
+**Features:**
 
 Secure Login: The login system is secure and ensures that only registered account holders can access their accounts.
 
@@ -57,16 +57,3 @@ Cashier Account:
 Username: cashier@gmail.com
 Password: 123
 
-Screenshots:
-
-User Account:
-
-user_webpage
-
-Manager Account:
-
-manager_webpage
-
-Cashier Account:
-
-cashier_webpage
