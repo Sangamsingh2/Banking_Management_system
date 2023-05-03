@@ -28,7 +28,7 @@ Profile Editing: Account holders can edit their profiles, including personal inf
 
 Password Change (Optional): Account holders can change their passwords for added security.
 
-Installation/Setup:
+**Installation/Setup:**
 
 Install XAMPP/WAMP server and start Apache and MySQL.
 
